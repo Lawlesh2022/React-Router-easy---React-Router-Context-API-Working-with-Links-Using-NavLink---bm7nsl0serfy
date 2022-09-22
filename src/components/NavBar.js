@@ -7,10 +7,10 @@ export const NavBar = () =>{
         <nav>
             <ul>
                 <li className = "index-link">
-                    <NavLink to ='/'>Index</NavLink>
+                    <NavLink to ='/'>index</NavLink>
                 </li>
                 <li className = "home-link">
-                    <NavLink to = '/home'>Home</NavLink>
+                    <NavLink to = '/home'>home</NavLink>
                 </li>
                 <li className = "home-link">
                     <NavLink to = '/notfound'>Not</NavLink>
